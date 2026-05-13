@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+output/
+input_emails/*
+!input_emails/README.md
+tests/fixtures/*
+!tests/fixtures/README.md
