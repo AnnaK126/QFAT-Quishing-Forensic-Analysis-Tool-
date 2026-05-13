@@ -1,0 +1,12 @@
+certifi==2026.4.22
+charset-normalizer==3.4.7
+idna==3.13
+opencv-python==4.13.0.92
+pikepdf==10.5.1
+pillow==12.2.0
+PyMuPDF==1.27.2.3
+pyzbar==0.1.9
+qrcode==8.0
+reportlab==4.5.0
+requests==2.33.1
+urllib3==2.6.3
